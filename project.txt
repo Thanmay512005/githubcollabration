@@ -1,0 +1,2 @@
+Welcome to GitHub collaboration project
+This repository demonstrates GitHub features
